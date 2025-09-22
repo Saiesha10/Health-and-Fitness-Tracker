@@ -1,4 +1,4 @@
-# 🏋️ Health and Fitness Tracker / AI Fitness Trainer
+# 🏋️ Health and Fitness Tracker 
 
 ## 🚀 Overview
 Health and Fitness Tracker is a **Python and Streamlit-based web application** designed to help users track their exercises, improve workout form, count reps, and manage nutrition. It also features an **AI-powered chatbot using Gemini API** for personalized fitness guidance.
